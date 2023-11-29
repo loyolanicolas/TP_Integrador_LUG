@@ -1,0 +1,17 @@
+20/11/2023 14:38:22-Login correcto, usuario: 1-Nicolas-Loyola
+20/11/2023 14:39:38-ABM Correcto! en usuario: Evelyn - Rumi
+20/11/2023 14:39:58-ABM Correcto! en usuario: Evelyn - Rumi
+20/11/2023 14:40:17-Afectación correcta! en turno ID: 0
+20/11/2023 14:40:27-Afectación correcta! en turno ID: 8
+20/11/2023 14:41:53-Logout correcto
+20/11/2023 14:46:47-Login correcto, usuario: 1-Nicolas-Loyola
+20/11/2023 14:46:56-Afectación correcta! en turno: 9 - 24/12/2023 00:00:00
+20/11/2023 14:47:06-Afectación correcta! en usuario: 8 - Evelyn - Rumi
+20/11/2023 14:47:14-Logout correcto
+20/11/2023 14:49:01-Login correcto, usuario: 1-Nicolas-Loyola
+27/11/2023 23:10:21-Login correcto, usuario: 1-Nicolas-Loyola
+27/11/2023 23:10:30-Logout correcto
+27/11/2023 23:10:35-Login correcto, usuario: 1-Nicolas-Loyola
+27/11/2023 23:12:24-Error al intentar modificar
+27/11/2023 23:12:26-Error al ejecutar baja
+27/11/2023 23:14:29-Logout correcto

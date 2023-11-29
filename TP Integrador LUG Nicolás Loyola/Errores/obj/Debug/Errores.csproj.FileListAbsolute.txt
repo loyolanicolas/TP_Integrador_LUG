@@ -1,0 +1,6 @@
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Errores\bin\Debug\Errores.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Errores\bin\Debug\Errores.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Errores\obj\Debug\Errores.csproj.AssemblyReference.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Errores\obj\Debug\Errores.csproj.CoreCompileInputs.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Errores\obj\Debug\Errores.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Errores\obj\Debug\Errores.pdb

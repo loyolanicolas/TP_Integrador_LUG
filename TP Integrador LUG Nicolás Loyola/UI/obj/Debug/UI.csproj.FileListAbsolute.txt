@@ -1,0 +1,101 @@
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\02 Visual Studio\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\UI.exe.config
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\02 Visual Studio\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\UI.exe
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\02 Visual Studio\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\UI.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\02 Visual Studio\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\02 Visual Studio\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Menu.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\02 Visual Studio\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\02 Visual Studio\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\02 Visual Studio\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\02 Visual Studio\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.exe
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\02 Visual Studio\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\02 Visual Studio\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Login.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\02 Visual Studio\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Turnos.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\UI.exe.config
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\UI.exe
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\UI.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Auditoria.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Formulario_Rol.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Formulario_Rutina.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Formulario_Turno.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Formulario_Usuario.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Roles.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Rutinas.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Turnos.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Login.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Menu.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Usuarios.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.exe
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\BLL.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Errores.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Funciones.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Seguridad.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\BLL.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Errores.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Funciones.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Seguridad.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\DAL.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\DAL.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\UI.exe.config
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\UI.exe
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\UI.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\BLL.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Errores.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Funciones.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Seguridad.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\DAL.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\BLL.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Errores.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Funciones.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Seguridad.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\DAL.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Auditoria.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Formulario_Rol.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Formulario_Turno.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Formulario_Usuario.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Roles.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Turnos.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Login.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Menu.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Usuarios.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.exe
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\UI.exe.config
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\UI.exe
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\UI.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\BLL.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Errores.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Funciones.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Seguridad.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\DAL.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\BLL.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Errores.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Funciones.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\Seguridad.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\bin\Debug\DAL.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Auditoria.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Formulario_Rol.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Formulario_Turno.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Formulario_Usuario.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Roles.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Turnos.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Login.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Menu.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.Usuarios.resources
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.exe
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\UI\obj\Debug\UI.pdb

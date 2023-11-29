@@ -1,0 +1,45 @@
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Seguridad.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Seguridad.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\BLL.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Errores.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Funciones.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\BLL.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Errores.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Funciones.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Seguridad\obj\Debug\Seguridad.csproj.AssemblyReference.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Seguridad\obj\Debug\Seguridad.csproj.CoreCompileInputs.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Seguridad\obj\Debug\Seguridad.csproj.CopyComplete
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Seguridad\obj\Debug\Seguridad.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Seguridad\obj\Debug\Seguridad.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\DAL.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\DAL.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Seguridad.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Seguridad.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\BLL.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Errores.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Funciones.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\DAL.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\BLL.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Errores.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Funciones.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\DAL.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\Seguridad\obj\Debug\Seguridad.csproj.AssemblyReference.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\Seguridad\obj\Debug\Seguridad.csproj.CoreCompileInputs.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\Seguridad\obj\Debug\Seguridad.csproj.CopyComplete
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\Seguridad\obj\Debug\Seguridad.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\04 Prototipo funcional 1\TP Integrador LUG Nicolás Loyola\Seguridad\obj\Debug\Seguridad.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Seguridad.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Seguridad.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\BLL.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Errores.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Funciones.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\DAL.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\BLL.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Errores.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\Funciones.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Seguridad\bin\Debug\DAL.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Seguridad\obj\Debug\Seguridad.csproj.AssemblyReference.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Seguridad\obj\Debug\Seguridad.csproj.CoreCompileInputs.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Seguridad\obj\Debug\Seguridad.csproj.CopyComplete
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Seguridad\obj\Debug\Seguridad.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Seguridad\obj\Debug\Seguridad.pdb

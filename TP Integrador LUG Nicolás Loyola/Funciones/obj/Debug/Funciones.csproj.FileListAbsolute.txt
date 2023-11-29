@@ -1,0 +1,12 @@
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Funciones\bin\Debug\Funciones.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Funciones\bin\Debug\Funciones.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Funciones\obj\Debug\Funciones.csproj.AssemblyReference.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Funciones\obj\Debug\Funciones.csproj.CoreCompileInputs.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Funciones\obj\Debug\Funciones.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\03 Arquitectura prototipo\TP Integrador LUG Nicolás Loyola\Funciones\obj\Debug\Funciones.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Funciones\bin\Debug\Funciones.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Funciones\bin\Debug\Funciones.pdb
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Funciones\obj\Debug\Funciones.csproj.AssemblyReference.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Funciones\obj\Debug\Funciones.csproj.CoreCompileInputs.cache
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Funciones\obj\Debug\Funciones.dll
+C:\Nico\UAIOnline\2do\Recursadas\LUG Recursada\Trabajo integrador\05 Prototipo funciona VFinal\TP Integrador LUG Nicolás Loyola\Funciones\obj\Debug\Funciones.pdb
